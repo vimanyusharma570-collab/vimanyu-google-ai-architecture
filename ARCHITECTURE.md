@@ -24,7 +24,7 @@ The AI layer is divided into specialized modules to handle different data types 
 - **Metrics**: Accuracy, F1-score, Confusion Matrix, and Loss curves.
 
 ## 2. Data Layer (Persistence & Format)
-The data layer ensures consistency and reliability across the system.
+The data layer ensures consistency and reliability across the system. For more details, see the [Data Pipeline Documentation](./DATA_PIPELINE.md).
 
 ### 2.1 Database Schema (SQLite)
 - **Engine**: `better-sqlite3` for high-performance synchronous operations.

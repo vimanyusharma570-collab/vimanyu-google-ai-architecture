@@ -12,7 +12,7 @@ PBA-1 is a modular architecture designed to handle complex AI tasks by dividing 
 - **Performance**: Optimize attention mechanisms and sequential data processing for state-of-the-art results.
 
 ## Architecture Layers
-For a detailed breakdown of our multi-layered design, see [ARCHITECTURE.md](./ARCHITECTURE.md).
+For a detailed breakdown of our multi-layered design, see [ARCHITECTURE.md](./ARCHITECTURE.md) and our [DATA_PIPELINE.md](./DATA_PIPELINE.md).
 
 - **AI Layer**: Transformer and LSTM model implementations integrated with **Vertex AI**, **Agentic AI** workflows, and an automated **MLOps** pipeline.
 - **Data Layer**: SQLite persistence and **BigQuery** for large-scale analytics.
